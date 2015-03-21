@@ -1,0 +1,34 @@
+# Twitter API Config
+consumer_key: blah
+consumer_secret: blah
+oauth_token: blah
+oauth_token_secret: blah
+
+# Slack config
+slack_channel: '#buzz'
+webhook_url: https://hooks.slack.com/services/blah/blah
+
+# Main keywords to search twitter for
+searches:
+- beach
+- kitten
+- hawt
+- fun
+
+# Good words filter
+good_words:
+- sunshine
+- 'beach ball'
+- 'ice cream'
+
+# Bad words filter
+bad_words:
+- speedo
+- uncomfortable
+- inappropriate
+
+# Banned words
+never_ok:
+- rape
+- sexist
+- cussword
